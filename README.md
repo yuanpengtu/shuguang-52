@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuguang-52&title_color=FFFFFF&icon_color=CC5160&text_color=9ED900&bg_color=87CEEB&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuguang-52&title_color=FFFFFF&icon_color=CC5160&text_color=&bg_color=87CEEB&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Contact Me:
