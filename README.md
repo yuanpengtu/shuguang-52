@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuguang-52&show_icons=true&bg_color=	#87CEEB)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuguang-52&show_icons=true&bg_color=#87CEEB)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Contact Me:
