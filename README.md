@@ -7,4 +7,4 @@ Contact Me:
 
 ✧ Website: https://shuguang-52.github.io/
 
-✧ Google Scholar:https://scholar.google.com/citations?user=n2YT06EAAAAJ&hl
+✧ Google Scholar: https://scholar.google.com/citations?user=n2YT06EAAAAJ&hl
