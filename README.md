@@ -3,7 +3,7 @@
 
 Contact Me:
 
-✉ Email: 2010504@tongji.edu.cn
+✉ Email: dsg@tongji.edu.cn
 
 ✧ Website: https://shuguang-52.github.io/
 
