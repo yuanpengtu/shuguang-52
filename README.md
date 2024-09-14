@@ -3,7 +3,7 @@
 
 Contact Me:
 
-✉ Email: 2030809@tongji.edu.cn
+✉ Email: tjtuyuanpeng@gmail.com
 
 ✧ Website: https://yuanpengtu.github.io/
 
